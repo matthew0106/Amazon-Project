@@ -6,11 +6,11 @@
 Analysis Report link: https://drive.google.com/file/d/1GK0VKL59aRcxVNmNaCSHELX7LgsqYQOm/view?usp=share_link
 
 ## 📌 Project Overview
-This project analyzes **Amazon’s discount strategies**, customer ratings, and product feedback across various categories. The goal is to understand **how discounts affect revenue, sales volume, and customer satisfaction** to help optimize Amazon’s pricing strategies.
+This project analyses **Amazon’s discount strategies**, customer ratings, and product feedback across various categories. The goal is to understand **how discounts affect revenue, sales volume, and customer satisfaction** to help optimise Amazon’s pricing strategies.
 
 ## 🎯 Objectives
 - Assess the **effectiveness of different discount levels** in driving revenue.
-- Analyze **the relationship between discounts, product ratings, and sales performance**.
+- Analyse **the relationship between discounts, product ratings, and sales performance**.
 - Identify **which product categories benefit most from discounts**.
 - Examine **customer feedback** to uncover common complaints affecting low-rated products.
 
