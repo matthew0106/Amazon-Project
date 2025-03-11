@@ -1,6 +1,9 @@
 
 📄 README: Amazon Sales Analysis Report
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.smarthouse.com.au%2Famazon-has-been-losing-billions-for-nearly-a-decade-flogging-hardware-devices%2F&psig=AOvVaw1s5fNEk85yDE2nfKtHOpeg&ust=1741766046617000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDsr6XGgYwDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/e510a3bb-a715-495d-94b2-3cf53ecc6c6d)
+
+
 📌 Project Overview
 
 This report analyzes Amazon’s discount strategies, customer ratings, and product feedback across multiple categories. It aims to understand how discounts impact revenue, customer satisfaction, and sales volume — helping Amazon optimize its pricing and marketing strategies.
