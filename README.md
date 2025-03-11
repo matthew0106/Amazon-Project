@@ -4,51 +4,46 @@
 ![image](https://github.com/user-attachments/assets/e510a3bb-a715-495d-94b2-3cf53ecc6c6d)
 
 
-📌 Project Overview
+## 📌 Project Overview
+This project analyzes **Amazon’s discount strategies**, customer ratings, and product feedback across various categories. The goal is to understand **how discounts affect revenue, sales volume, and customer satisfaction** to help optimize Amazon’s pricing strategies.
 
-This report analyzes Amazon’s discount strategies, customer ratings, and product feedback across multiple categories. It aims to understand how discounts impact revenue, customer satisfaction, and sales volume — helping Amazon optimize its pricing and marketing strategies.
+## 🎯 Objectives
+- Assess the **effectiveness of different discount levels** in driving revenue.
+- Analyze **the relationship between discounts, product ratings, and sales performance**.
+- Identify **which product categories benefit most from discounts**.
+- Examine **customer feedback** to uncover common complaints affecting low-rated products.
 
-🎯 Objectives
+## 🛠️ Tools & Technologies
+- **Python** (Pandas, Matplotlib, Seaborn, Statsmodels, WordCloud)
+- **Data Cleaning & Aggregation**
+- **Correlation & Price Elasticity Analysis**
+- **Natural Language Processing (NLP) for Customer Reviews**
+- **Jupyter Notebook**
 
-Evaluate the effectiveness of discounts in driving revenue.
-Understand the relationship between discount levels, product ratings, and sales performance.
-Identify category-specific trends in pricing and discount effectiveness.
-Analyze customer feedback to uncover common issues affecting product ratings.
-🛠️ Tools & Methods
+## 🔑 Key Findings
+### 📉 **Discount Effectiveness**
+- **20-40% discounts are the most effective** at balancing revenue and customer appeal.
+- **Deep discounts (60%+) offer diminishing returns**, particularly for high-ticket items like electronics.
+- **Higher discounts correlate with lower ratings**, suggesting that **discounts are often applied to lower-quality products**.
 
-Python (Pandas, Matplotlib, Seaborn, Statsmodels)
-Data Cleaning & Aggregation
-Correlation Analysis
-Price Elasticity Analysis
-Customer Review Text Analysis (NLP)
-🔑 Key Findings
+### 🔍 **Category-Specific Insights**
+- **Electronics revenue declines slightly** with discounts, indicating **inelastic demand**.
+- **Office Products maintain high ratings** with lower discounts, emphasizing **quality over price**.
+- **Computers & Accessories show moderate benefit from discounts**, while **Home & Kitchen results are mixed**.
 
-1️⃣ Discount Effectiveness
-Discounts between 20-40% offer the best balance between revenue and customer appeal.
-Deep discounts (60%+) show diminishing returns, especially for high-ticket items like electronics.
-Higher discounts tend to be applied to lower-quality products, impacting customer satisfaction.
-2️⃣ Category-Specific Insights
-Electronics revenue declines slightly with discounts, showing inelastic demand.
-Office Products maintain high ratings even with lower discounts, highlighting the importance of quality over price.
-Computers & Accessories benefit moderately from discounts, while Home & Kitchen products show mixed results.
-3️⃣ Customer Feedback Insights
-Product quality issues (defects, durability problems) are a recurring complaint in low-rated products.
-Packaging issues like missing boxes or damaged products also contribute to negative reviews.
-Despite complaints, some customers still acknowledge positive aspects like “good product” and “working fine.”
-✅ Recommendations
+### 📝 **Customer Feedback Analysis**
+- **Frequent product quality issues** (e.g., *"defective product," "battery life," "product not working"*) appear in low-rated reviews.
+- **Packaging complaints** (*"sent without box," "used piece"*) contribute to negative customer experiences.
+- Despite complaints, some reviews still highlight positive aspects (*"good product," "working fine"*) even in low ratings.
 
-Focus discounts in the 20-40% range, particularly for price-sensitive categories.
-For high-ticket items (Electronics), shift from aggressive discounts to value-based promotions — bundling, financing, and extended warranties.
-Strengthen quality control, especially for Electronics and Home & Kitchen.
-Highlight highly-rated products with verified reviews to build customer trust.
-Use category-specific marketing strategies:
-Office Products: Emphasize durability & reliability.
-Electronics: Focus on features, performance & brand reputation rather than just discounts.
-📂 Files Included
+## ✅ Recommendations
+- **Focus discounts in the 20-40% range** for optimal revenue impact.
+- **Reduce over-discounting in Electronics** and shift to **value-based promotions** like:
+  - **Bundling** (e.g., laptop + accessories)
+  - **Financing options** (0% installment plans)
+  - **Extended warranties**
+- **Strengthen quality control** in categories with frequent product defects.
+- **Improve packaging and fulfillment** to prevent complaints about damaged or used products.
+- **Leverage verified reviews** to increase trust, especially for price-sensitive categories.
 
-Full report: Amazon Sales Analysis Report.pdf
-Python code: [GitHub Link (if applicable)]
-👨‍💻 Author
-
-Matthew Huynh
-March 2025
+## Authur: Matthew Huynh
